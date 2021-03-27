@@ -3,7 +3,11 @@ h3 {
 }
 
 img {
-
+   width: 500px;
+   height: auto;
+   border: 1px goldenrod;
+   border-radius: 4px;
+   padding-top: 10px;
 }
 
 .photos {

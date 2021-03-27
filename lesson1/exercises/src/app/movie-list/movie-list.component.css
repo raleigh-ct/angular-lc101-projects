@@ -1,0 +1,9 @@
+.movies h3 {
+    color: palevioletred;
+    font-size: 20px;
+    text-align: center;
+}
+
+.movies li {
+    color: turquoise;
+}
